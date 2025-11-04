@@ -8,7 +8,7 @@ let count = 5;
 while (count >= 1){
     console.log(count);
     count --;
-}
+} 
 
 for (let i=0; i< numbers.length; i++){
     if (numbers[i] % 2 === 0){
@@ -20,3 +20,10 @@ for (let i = 0; i< numbers.length; i++){
     sum += numbers[i];
 }
 console.log("The sum is:", sum);
+
+//let UserInput= prompt("enter your name");
+
+//console.log(UserInput);
+
+let surname = "Lange"
+    console.log(surname);
